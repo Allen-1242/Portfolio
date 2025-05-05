@@ -4,14 +4,28 @@
     "href": "index.html",
     "title": "Allen Sunny",
     "section": "",
-    "text": "I’m an AI and data science researcher. Explore my work below:\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\nGitHub"
+    "text": "Hi, I’m Allen Sunny. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. This site showcases my coursework, research papers, and code projects.\n\n\n\n\n📝 Read My Blog on Substack\n📄 Download My Resume (PDF)\n\n\n\n\n\n\n\n\n📄 Algorithmic Accountability Paper\n💻 View Code on GitHub\n\n\n\n\n\n📄 Visualizing Economic Inequality\n💻 View Code on GitHub\n\n\n\n\n\n📄 Fairness Metrics Evaluation\n💻 View Code on GitHub\n\n\n\n\n\n📄 Language Bias in GPT Models\n💻 View Code on GitHub\n\n\n\n\n\n\nBuilt using Quarto, hosted on GitHub Pages, and always evolving."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
     "title": "Allen Sunny",
     "section": "",
-    "text": "I’m an AI and data science researcher. Explore my work below:\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\nGitHub"
+    "text": "📝 Read My Blog on Substack\n📄 Download My Resume (PDF)"
+  },
+  {
+    "objectID": "index.html#projects-by-course",
+    "href": "index.html#projects-by-course",
+    "title": "Allen Sunny",
+    "section": "",
+    "text": "📄 Algorithmic Accountability Paper\n💻 View Code on GitHub\n\n\n\n\n\n📄 Visualizing Economic Inequality\n💻 View Code on GitHub\n\n\n\n\n\n📄 Fairness Metrics Evaluation\n💻 View Code on GitHub\n\n\n\n\n\n📄 Language Bias in GPT Models\n💻 View Code on GitHub"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Allen Sunny",
+    "section": "",
+    "text": "Built using Quarto, hosted on GitHub Pages, and always evolving."
   },
   {
     "objectID": "about.html",

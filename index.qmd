@@ -1,0 +1,27 @@
+---
+title: "Allen Sunny"
+format: html
+page-layout: full
+---
+
+## Welcome
+
+I’m an AI and data science researcher. Explore my work below:
+
+::: {.grid .gap-4}
+::: {.g-col-6}
+[![Projects](images/projects.png){width=100%}](projects.qmd)
+:::
+
+::: {.g-col-6}
+[![Resume](images/resume.png){width=100%}](resume.pdf)
+:::
+
+::: {.g-col-6}
+[![Blog](images/blog.png){width=100%}](blog.qmd)
+:::
+
+::: {.g-col-6}
+[![GitHub](images/github.png){width=100%}](https://github.com/yourusername)
+:::
+:::

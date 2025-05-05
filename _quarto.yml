@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "my-portfolio"
+  title: "Allen Sunny"
   navbar:
     left:
       - href: index.qmd

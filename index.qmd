@@ -1,11 +1,9 @@
 ---
-title: "Allen Sunny"
+title: "Welcome"
 format:
   html:
     page-layout: full
 ---
-
-# Welcome
 
 Hi, I'm Allen Sunny. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. This site showcases my coursework, research papers, and code projects.
 

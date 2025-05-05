@@ -1,27 +1,43 @@
 ---
 title: "Allen Sunny"
-format: html
-page-layout: full
+format:
+  html:
+    page-layout: full
 ---
 
-## Welcome
+# Welcome
 
-I’m an AI and data science researcher. Explore my work below:
+Hi, I'm Allen Sunny. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. This site showcases my coursework, research papers, and code projects.
 
-::: {.grid .gap-4}
-::: {.g-col-6}
-[![Projects](images/projects.png){width=100%}](projects.qmd)
-:::
+---
 
-::: {.g-col-6}
-[![Resume](images/resume.png){width=100%}](resume.pdf)
-:::
+## Explore
 
-::: {.g-col-6}
-[![Blog](images/blog.png){width=100%}](blog.qmd)
-:::
+- 📝 [Read My Blog on Substack](https://your-substack-name.substack.com)
+- 📄 [Download My Resume (PDF)](resume.pdf)
 
-::: {.g-col-6}
-[![GitHub](images/github.png){width=100%}](https://github.com/yourusername)
-:::
-:::
+---
+
+## Projects by Course
+
+### AI and Society
+- 📄 [Algorithmic Accountability Paper](papers/ai-society-paper.pdf)
+- 💻 [View Code on GitHub](https://github.com/yourusername/ai-society-project)
+
+### Visual Analytics
+- 📄 [Visualizing Economic Inequality](papers/visual-analytics-paper.pdf)
+- 💻 [View Code on GitHub](https://github.com/yourusername/inequality-visualization)
+
+### Ethics in Machine Learning
+- 📄 [Fairness Metrics Evaluation](papers/ml-ethics-paper.pdf)
+- 💻 [View Code on GitHub](https://github.com/yourusername/fairness-ml)
+
+### Natural Language Processing
+- 📄 [Language Bias in GPT Models](papers/nlp-bias-paper.pdf)
+- 💻 [View Code on GitHub](https://github.com/yourusername/gpt-bias-project)
+
+---
+
+## About This Site
+
+Built using [Quarto](https://quarto.org), hosted on [GitHub Pages](https://pages.github.com), and always evolving.

@@ -5,7 +5,7 @@ format:
     page-layout: full
 ---
 
-Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidence of Professor Ido Sivan-Sevilla.
+Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park.  I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidence of Professor Ido Sivan-Sevilla.
 
 This site showcases my coursework, research papers, and code projects.
 
@@ -18,33 +18,44 @@ This site showcases my coursework, research papers, and code projects.
 
 ---
 
-## Open Source Work
+## Open Source 
+<h2 style="font-weight: bold; font-size: 1.25em;">TangledFeatures</h2>
+
 - [TangledFeatures](https://allen-1242.github.io/TangledFeatures/)
-- [TangledFeatures documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
+- [TangledFeatures Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
 
 TangledFeatures is a Feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.
 
+<h2 style="font-weight: bold; font-size: 1.25em;">StructuralDecompose</h2>
 
+- [StructuralDecompose](https://allen-1242.github.io/StructuralDecompose/)
+- [StructuralDecompose Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
 
+Explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
+
+<h2 style="font-weight: bold; font-size: 1.25em;">Oxford AI Monitoring System</h2>
+
+- [StructuralDecompose](https://allen-1242.github.io/StructuralDecompose/)
+- [StructuralDecompose Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
+
+Explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
 
 
 ---
 
+## Projects and Papers
 
+### INST 798 Qualitivate research methods
+- 📄 [Creating a Qualitative study](papers/visual-analytics-paper.pdf)
 
-### AI and Society
+### INST 798 Quantitative research methods
+- 📄 [Creating a quantiative study](papers/ml-ethics-paper.pdf)
+
+### RADAR INST760 Data Visualization
 - 📄 [Algorithmic Accountability Paper](papers/ai-society-paper.pdf)
 - 💻 [View Code on GitHub](https://github.com/yourusername/ai-society-project)
 
-### Visual Analytics
-- 📄 [Visualizing Economic Inequality](papers/visual-analytics-paper.pdf)
-- 💻 [View Code on GitHub](https://github.com/yourusername/inequality-visualization)
-
-### Ethics in Machine Learning
-- 📄 [Fairness Metrics Evaluation](papers/ml-ethics-paper.pdf)
-- 💻 [View Code on GitHub](https://github.com/yourusername/fairness-ml)
-
-### Natural Language Processing
+### Dark Pattern Analysis 
 - 📄 [Language Bias in GPT Models](papers/nlp-bias-paper.pdf)
 - 💻 [View Code on GitHub](https://github.com/yourusername/gpt-bias-project)
 

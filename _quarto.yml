@@ -5,9 +5,10 @@ website:
   title: "Allen Sunny"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Coursework"
+        href: coursework.qmd
 
 format:
   html:

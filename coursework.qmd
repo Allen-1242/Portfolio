@@ -1,0 +1,26 @@
+---
+title: "Coursework"
+format: html
+---
+
+## Fall 2023
+- **INFM600: Information Environments** — Instructor: W. Shah  
+- **INFM603: Information Technology and Organizational Context** — Instructor: V. Diker  
+- **CMSC848I / INST788B / PHIL688F: Trustworthy ML** — Instructor: Hal Daumé III  
+
+## Spring 2024
+- **INFM605: Users and Use Context** — Instructor: C. Doran  
+- **INFM612: Management Concepts and Principles for Information Professionals** — Instructor: W. Shah  
+- **INST798 / INST808: Seminar in Research Methods and Data Analysis** — Instructor: Paletz  
+- **PHIL211: AI & Ethics** — Instructor: Dwyer  
+
+## Summer 2024
+- **INST204: Designing Fair Systems (Summer II)** — Instructor: Sevilla  
+
+## Fall 2024
+- **CMSC839C / INST878D: Advanced Topics in HCI; Governing Algorithms & Algorithmic Governance** — Instructor: Kaptchuk  
+- **INST760: Data Visualization** — Instructor: N. Hoque  
+- **INST798 / INST808: Seminar in Research Methods and Data Analysis** — Instructor: J. Vitak  
+
+## Spring 2025
+- **INST762: Visual Analytics** — Instructor: DEP  

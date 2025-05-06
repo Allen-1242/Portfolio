@@ -2,16 +2,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Allen Sunny",
+    "title": "Welcome",
     "section": "",
-    "text": "I’m an AI and data science researcher. Explore my work below:\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\nGitHub"
+    "text": "Hi, I’m Allen Sunny. I am a masters student at the University of Maryland College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidence of Professor Ido Sivan-Sevilla.\nThis site showcases my coursework, research papers, and code projects."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Allen Sunny",
-    "section": "",
-    "text": "I’m an AI and data science researcher. Explore my work below:\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\nGitHub"
+    "objectID": "index.html#read-my-current-work",
+    "href": "index.html#read-my-current-work",
+    "title": "Welcome",
+    "section": "Read my current work:",
+    "text": "Read my current work:\n\n📄 Download My Resume (PDF)\n📝 Read My Blog on Substack"
+  },
+  {
+    "objectID": "index.html#open-source",
+    "href": "index.html#open-source",
+    "title": "Welcome",
+    "section": "Open Source",
+    "text": "Open Source\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a Feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts.\n\nOxford AI Monitoring System\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts."
+  },
+  {
+    "objectID": "index.html#projects-and-papers",
+    "href": "index.html#projects-and-papers",
+    "title": "Welcome",
+    "section": "Projects and Papers",
+    "text": "Projects and Papers\n\nINST 798 Qualitivate research methods\n\n📄 Creating a Qualitative study\n\n\n\nINST 798 Quantitative research methods\n\n📄 Creating a quantiative study\n\n\n\nRADAR INST760 Data Visualization\n\n📄 Algorithmic Accountability Paper\n💻 View Code on GitHub\n\n\n\nDark Pattern Analysis\n\n📄 Language Bias in GPT Models\n💻 View Code on GitHub"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome",
+    "section": "About This Site",
+    "text": "About This Site\nBuilt using Quarto, hosted on GitHub Pages, and always evolving."
   },
   {
     "objectID": "about.html",
@@ -19,5 +40,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "INFM600: Information Environments — Instructor: W. Shah\n\nINFM603: Information Technology and Organizational Context — Instructor: V. Diker\n\nCMSC848I / INST788B / PHIL688F: Trustworthy ML — Instructor: Hal Daumé III"
+  },
+  {
+    "objectID": "coursework.html#fall-2023",
+    "href": "coursework.html#fall-2023",
+    "title": "Coursework",
+    "section": "",
+    "text": "INFM600: Information Environments — Instructor: W. Shah\n\nINFM603: Information Technology and Organizational Context — Instructor: V. Diker\n\nCMSC848I / INST788B / PHIL688F: Trustworthy ML — Instructor: Hal Daumé III"
+  },
+  {
+    "objectID": "coursework.html#spring-2024",
+    "href": "coursework.html#spring-2024",
+    "title": "Coursework",
+    "section": "Spring 2024",
+    "text": "Spring 2024\n\nINFM605: Users and Use Context — Instructor: C. Doran\n\nINFM612: Management Concepts and Principles for Information Professionals — Instructor: W. Shah\n\nINST798 / INST808: Seminar in Research Methods and Data Analysis — Instructor: Paletz\n\nPHIL211: AI & Ethics — Instructor: Dwyer"
+  },
+  {
+    "objectID": "coursework.html#summer-2024",
+    "href": "coursework.html#summer-2024",
+    "title": "Coursework",
+    "section": "Summer 2024",
+    "text": "Summer 2024\n\nINST204: Designing Fair Systems (Summer II) — Instructor: Sevilla"
+  },
+  {
+    "objectID": "coursework.html#fall-2024",
+    "href": "coursework.html#fall-2024",
+    "title": "Coursework",
+    "section": "Fall 2024",
+    "text": "Fall 2024\n\nCMSC839C / INST878D: Advanced Topics in HCI; Governing Algorithms & Algorithmic Governance — Instructor: Kaptchuk\n\nINST760: Data Visualization — Instructor: N. Hoque\n\nINST798 / INST808: Seminar in Research Methods and Data Analysis — Instructor: J. Vitak"
+  },
+  {
+    "objectID": "coursework.html#spring-2025",
+    "href": "coursework.html#spring-2025",
+    "title": "Coursework",
+    "section": "Spring 2025",
+    "text": "Spring 2025\n\nINST762: Visual Analytics — Instructor: DEP"
   }
 ]

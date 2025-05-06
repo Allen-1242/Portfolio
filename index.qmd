@@ -56,7 +56,7 @@ Explains the behavior of a time series by decomposing it into its trend, seasona
 - 💻 [View Code on GitHub](https://github.com/yourusername/ai-society-project)
 
 ### Dark Pattern Analysis 
-- 📄 [Language Bias in GPT Models](papers/nlp-bias-paper.pdf)
+- 📄 [Dark Patterns](papers/nlp-bias-paper.pdf)
 - 💻 [View Code on GitHub](https://github.com/yourusername/gpt-bias-project)
 
 ---

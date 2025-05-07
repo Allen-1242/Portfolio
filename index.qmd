@@ -24,7 +24,7 @@ This site showcases my coursework, research papers, and code projects.
 - [TangledFeatures](https://allen-1242.github.io/TangledFeatures/)
 - [TangledFeatures Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
 
-TangledFeatures is a Feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.
+TangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.
 
 <h2 style="font-weight: bold; font-size: 1.25em;">StructuralDecompose</h2>
 
@@ -45,19 +45,29 @@ Explains the behavior of a time series by decomposing it into its trend, seasona
 
 ## Projects and Papers
 
-### INST 798 Qualitivate research methods
-- 📄 [Creating a Qualitative study](papers/visual-analytics-paper.pdf)
 
-### INST 798 Quantitative research methods
-- 📄 [Creating a quantiative study](papers/ml-ethics-paper.pdf)
+### Quantitative research methods
+Exploring the importance of explainability in AI using Quantitative research methods 
 
-### RADAR INST760 Data Visualization
-- 📄 [Algorithmic Accountability Paper](papers/ai-society-paper.pdf)
-- 💻 [View Code on GitHub](https://github.com/yourusername/ai-society-project)
+- 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
+
+### Qualitivate research methods
+Exploring the importance of explainability in AI using Qualitative research methods 
+
+- 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
+
+
+### RADAR: Retrieval-Augmented Data Analysis and Representation
+RADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.
+
+- 📄 [Paper](papers/INST760.pdf)
+- 💻 [Code](https://github.com/Allen-1242/Radar)
 
 ### Dark Pattern Analysis 
-- 📄 [Dark Patterns](papers/nlp-bias-paper.pdf)
-- 💻 [View Code on GitHub](https://github.com/yourusername/gpt-bias-project)
+A browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.
+
+- 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)
+- 💻 [Code](https://github.com/yourusername/gpt-bias-project)
 
 ---
 

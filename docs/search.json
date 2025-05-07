@@ -18,14 +18,14 @@
     "href": "index.html#open-source",
     "title": "Welcome",
     "section": "Open Source",
-    "text": "Open Source\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a Feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts.\n\nOxford AI Monitoring System\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts."
+    "text": "Open Source\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts.\n\nOxford AI Monitoring System\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nExplains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts."
   },
   {
     "objectID": "index.html#projects-and-papers",
     "href": "index.html#projects-and-papers",
     "title": "Welcome",
     "section": "Projects and Papers",
-    "text": "Projects and Papers\n\nINST 798 Qualitivate research methods\n\n📄 Creating a Qualitative study\n\n\n\nINST 798 Quantitative research methods\n\n📄 Creating a quantiative study\n\n\n\nRADAR INST760 Data Visualization\n\n📄 Algorithmic Accountability Paper\n💻 View Code on GitHub\n\n\n\nDark Pattern Analysis\n\n📄 Dark Patterns\n💻 View Code on GitHub"
+    "text": "Projects and Papers\n\nQuantitative research methods\nExploring the importance of explainability in AI using Quantitative research methods\n\n📄 Paper\n\n\n\nQualitivate research methods\nExploring the importance of explainability in AI using Qualitative research methods\n\n📄 Paper\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code"
   },
   {
     "objectID": "index.html#about-this-site",

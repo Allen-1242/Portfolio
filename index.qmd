@@ -5,15 +5,15 @@ format:
     page-layout: full
 ---
 
-Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park.  I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidance of Professor Ido Sivan-Sevilla.
+Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park.  I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidance of Professor [Ido Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/).
 
-This site showcases my coursework, research papers, and code projets.
+This site showcases my coursework, research papers, and links to my code.
 
 ---
 
 ## Read my current work:
 
-- 📄 [Download My Resume (PDF)](resume.pdf)
+- 📄 [Download My Resume (PDF)](Resume.pdf)
 - 📝 [Read My Blog on Substack](https://allensai.substack.com/publish/home)
 
 ---

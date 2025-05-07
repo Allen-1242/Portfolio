@@ -7,7 +7,7 @@ format:
 
 Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park.  I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidance of Professor Ido Sivan-Sevilla.
 
-This site showcases my coursework, research papers, and code projects.
+This site showcases my coursework, research papers, and code projets.
 
 ---
 
@@ -24,22 +24,20 @@ This site showcases my coursework, research papers, and code projects.
 - [TangledFeatures](https://allen-1242.github.io/TangledFeatures/)
 - [TangledFeatures Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
 
-TangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. The package is useful in the field of explainable modelling as a way to understand variable behavior.
+TangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. This R package is useful in the field of explainable modelling as a way to understand variable behavior.
 
 <h2 style="font-weight: bold; font-size: 1.25em;">StructuralDecompose</h2>
 
 - [StructuralDecompose](https://allen-1242.github.io/StructuralDecompose/)
 - [StructuralDecompose Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
 
-Explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
+This R package explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
 
 <h2 style="font-weight: bold; font-size: 1.25em;">Oxford AI Monitoring System</h2>
 
-- [StructuralDecompose](https://allen-1242.github.io/StructuralDecompose/)
-- [StructuralDecompose Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
+- [Monitoring System](https://github.com/Allen-1242/Oxford_AI_Monitoring)
 
-Explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
-
+Automatic web scrapper that tracks the adoption of foundation models by companies
 
 ---
 
@@ -51,7 +49,7 @@ Exploring the importance of explainability in AI using Quantitative research met
 
 - 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
 
-### Qualitivate research methods
+### Qualitative research methods
 Exploring the importance of explainability in AI using Qualitative research methods 
 
 - 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)

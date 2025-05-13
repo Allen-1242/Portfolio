@@ -42,7 +42,7 @@ RADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable dat
 
 
 
-### Exploring the effects of explainability on model trust
+### Explainability and Trust in AI: A Quantitative Approach
 Exploring the importance of explainability in AI using Quantitative research methods 
 
 - 📄 [Paper](papers/INST_808__User_AI_Research.pdf)

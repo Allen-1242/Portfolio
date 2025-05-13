@@ -13,7 +13,7 @@ This site showcases my coursework, research papers, and links to my code.
 
 ## Read my current work:
 
-- 📄 [Download My Resume (PDF)](Resume.pdf)
+- 📄 [Download My Resume (PDF)](papers/Resume.pdf)
 - 📝 [Read My Blog on Substack](https://allensai.substack.com/)
 
 ---

@@ -44,13 +44,13 @@ Automatic web scrapper that tracks the adoption of foundation models by companie
 ## Projects and Papers
 
 
-### Quantitative research methods
+### Exploring the effects of explainability on model trust
 Exploring the importance of explainability in AI using Quantitative research methods 
 
 - 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
 
-### Qualitative research methods
-Exploring the importance of explainability in AI using Qualitative research methods 
+### Trust in Transparency: How Explainable AI Shapes User Perceptions
+Exploring the XAI and trust in AI using Qualitative research methods 
 
 - 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
 

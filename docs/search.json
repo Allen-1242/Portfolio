@@ -18,14 +18,14 @@
     "href": "index.html#open-source",
     "title": "Welcome",
     "section": "Open Source",
-    "text": "Open Source\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. This R package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nThis R package explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts.\n\nOxford AI Monitoring System\n\n\nMonitoring System\n\nAutomatic web scrapper that tracks the adoption of foundation models by companies"
+    "text": "Open Source\n\nOxford AI Monitoring System\n\n\nMonitoring System\n\nAutomatic web scrapper that tracks the adoption of foundation models by companies\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. This R package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nThis R package explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts."
   },
   {
     "objectID": "index.html#projects-and-papers",
     "href": "index.html#projects-and-papers",
     "title": "Welcome",
     "section": "Projects and Papers",
-    "text": "Projects and Papers\n\nExploring the effects of explainability on model trust\nExploring the importance of explainability in AI using Quantitative research methods\n\n📄 Paper\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nExploring the XAI and trust in AI using Qualitative research methods\n\n📄 Paper\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code"
+    "text": "Projects and Papers"
   },
   {
     "objectID": "index.html#about-this-site",
@@ -82,5 +82,12 @@
     "title": "Coursework",
     "section": "Spring 2025",
     "text": "Spring 2025\n\nINST762: Visual Analytics — Instructor: DEP"
+  },
+  {
+    "objectID": "index.html#human-centered-ai-for-the-public-sector",
+    "href": "index.html#human-centered-ai-for-the-public-sector",
+    "title": "Welcome",
+    "section": "Human-Centered AI for the Public Sector",
+    "text": "Human-Centered AI for the Public Sector\nA government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.\n\n📄 Thesis (in progress)\n💻 Prototype (coming soon)\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nExploring the effects of explainability on model trust\nExploring the importance of explainability in AI using Quantitative research methods\n\n📄 Paper\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nExploring the XAI and trust in AI using Qualitative research methods\n\n📄 Paper"
   }
 ]

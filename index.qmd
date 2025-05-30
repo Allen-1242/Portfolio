@@ -20,7 +20,7 @@ This site showcases my coursework, research papers, and links to my code.
 
 ## Projects and Papers
 
-## Human-Centered AI for the Public Sector
+### Masters Thesis: Human-Centered AI for the Public Sector
 A government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.
 
 - 📄 Thesis (in progress)
@@ -41,16 +41,16 @@ RADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable dat
 - 💻 [Code](https://github.com/Allen-1242/Radar)
 
 
-
-### Explainability and Trust in AI: A Quantitative Approach
-Exploring the importance of explainability in AI using Quantitative research methods 
-
-- 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
-
 ### Trust in Transparency: How Explainable AI Shapes User Perceptions
-Exploring the XAI and trust in AI using Qualitative research methods 
+Uses interviews to explore how users emotionally respond to AI explanations. Reveals that trust depends not just on transparency, but also on reliability, clarity, and perceived agency.
 
 - 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
+
+
+### Explainability and Trust in AI: A Quantitative Approach
+Examines how different types of AI explanations impact user trust through experiments and surveys. Finds that well-designed, context-sensitive explanations significantly improve perceived fairness and trust.
+
+- 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
 
 
 ---

@@ -5,82 +5,72 @@ format:
     page-layout: full
 ---
 
-Hi, I'm Allen Sunny. I am a masters student at the University of Maryland College Park.  I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidance of Professor [Ido Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/). 
+Hi, I'm Allen Sunny, a master's student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability.  I'm currently finishing my thesis under the guidance of [Professor Ido Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/).
 
-This site showcases my coursework, research papers, and links to my code.
-
----
-
-## Read my current work:
-
-- 📄 [Download My Resume (PDF)](papers/Resume.pdf)
-- 📝 [Read My Blog on Substack](https://allensai.substack.com/)
+This site showcases my research, projects, and links to my code repositories.
 
 ---
 
-## Projects and Papers
+## 🔍 Current Work
 
-### Masters Thesis: Human-Centered AI for the Public Sector
-A government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.
+- 📄 [Download My Resume](papers/Resume.pdf)
+- 📝 [Read My Blog](https://allensai.substack.com/)
 
-- 📄 Thesis (in progress)
-- 💻 Prototype (coming soon)
+---
 
+## 📚 Research Projects
 
-### Dark Pattern Analysis 
-A browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.
+### Human-Centered AI for the Public Sector  
+Designing an AI framework and prototype tailored for responsible deployment in government settings.  
+- 📄 *Thesis (in progress)*  
+- 💻 *Prototype coming soon*
 
-- 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)
-- 💻 [Code](https://github.com/Allen-1242/Dark_Patterns)
-
-
-### RADAR: Retrieval-Augmented Data Analysis and Representation
-RADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.
-
-- 📄 [Paper](papers/INST760.pdf)
-- 💻 [Code](https://github.com/Allen-1242/Radar)
-
-
-### Trust in Transparency: How Explainable AI Shapes User Perceptions
-Uses interviews to explore how users emotionally respond to AI explanations. Reveals that trust depends not just on transparency, but also on reliability, clarity, and perceived agency.
-
+### Trust in Transparency: How Explainable AI Shapes User Perceptions  
+A qualitative interview study of emotional responses to AI explanations.  
 - 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
 
-
-### Explainability and Trust in AI: A Quantitative Approach
-Examines how different types of AI explanations impact user trust through experiments and surveys. Finds that well-designed, context-sensitive explanations significantly improve perceived fairness and trust.
-
+### Explainability and Trust in AI: A Quantitative Approach  
+Explores how explanation types influence user trust and fairness.  
 - 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
 
+### Oxford AI Monitoring System  
+A lightweight web scraper that tracks foundation model adoption by companies.  
+- 💻 [Code](https://github.com/Allen-1242/Oxford_AI_Monitoring)
 
 ---
 
-## Open Source 
-<h2 style="font-weight: bold; font-size: 1.25em;">Oxford AI Monitoring System</h2>
+## 🛠️ Open Source Tools
 
-- [Monitoring System](https://github.com/Allen-1242/Oxford_AI_Monitoring)
+### ⚙️ Applied Systems
 
-Automatic web scrapper that tracks the adoption of foundation models by companies
+#### Dark Pattern Analysis  
+A browser extension that detects deceptive UX elements using **DOM analysis** and **LLM-based classification**.  
+- 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)  
+- 💻 [Code](https://github.com/Allen-1242/Dark_Patterns)
 
-<h2 style="font-weight: bold; font-size: 1.25em;">TangledFeatures</h2>
-
-- [TangledFeatures](https://allen-1242.github.io/TangledFeatures/)
-- [TangledFeatures Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
-
-TangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. This R package is useful in the field of explainable modelling as a way to understand variable behavior.
-
-<h2 style="font-weight: bold; font-size: 1.25em;">StructuralDecompose</h2>
-
-- [StructuralDecompose](https://allen-1242.github.io/StructuralDecompose/)
-- [StructuralDecompose Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
-
-This R package explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts. 
-
+#### RADAR: Retrieval-Augmented Data Analysis and Representation  
+A RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.  
+- 📄 [Paper](papers/INST760.pdf)  
+- 💻 [Code](https://github.com/Allen-1242/Radar)
 
 ---
 
+### 📦 R Tools for Interpretable Machine Learning
 
+#### TangledFeatures  
+Performs feature selection in highly correlated spaces for use with interpretable models.  
+- 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)  
+- 📄 [Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
 
-## About This Site
+#### StructuralDecompose  
+Decomposes time series into components while remaining robust to level shifts.  
+- 🌐 [Package Site](https://allen-1242.github.io/StructuralDecompose/)  
+- 📄 [Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
 
-Built using [Quarto](https://quarto.org), hosted on [GitHub Pages](https://pages.github.com), and always evolving.
+---
+
+## 🌐 About This Site
+
+Built with [Quarto](https://quarto.org)  
+Hosted on [GitHub Pages](https://pages.github.com)  
+Always evolving.

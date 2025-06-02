@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi, I’m Allen Sunny. I am a masters student at the University of Maryland College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I am currently finishing my masters thesis under the guidance of Professor Ido Sivan-Sevilla.\nThis site showcases my coursework, research papers, and links to my code."
+    "text": "Hi, I’m Allen Sunny, a master’s student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I’m currently finishing my thesis under the guidance of Professor Ido Sivan-Sevilla.\nThis site showcases my research, projects, and links to my code repositories."
   },
   {
     "objectID": "index.html#read-my-current-work",
@@ -31,8 +31,8 @@
     "objectID": "index.html#about-this-site",
     "href": "index.html#about-this-site",
     "title": "Welcome",
-    "section": "About This Site",
-    "text": "About This Site\nBuilt using Quarto, hosted on GitHub Pages, and always evolving."
+    "section": "🌐 About This Site",
+    "text": "🌐 About This Site\nBuilt with Quarto\nHosted on GitHub Pages\nAlways evolving."
   },
   {
     "objectID": "about.html",
@@ -89,5 +89,26 @@
     "title": "Welcome",
     "section": "Human-Centered AI for the Public Sector",
     "text": "Human-Centered AI for the Public Sector\nA government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.\n\n📄 Thesis (in progress)\n💻 Prototype (coming soon)\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nUses interviews to explore how users emotionally respond to AI explanations. Reveals that trust depends not just on transparency, but also on reliability, clarity, and perceived agency.\n\n📄 Paper\n\n\n\nExplainability and Trust in AI: A Quantitative Approach\nExamines how different types of AI explanations impact user trust through experiments and surveys. Finds that well-designed, context-sensitive explanations significantly improve perceived fairness and trust.\n\n📄 Paper"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Welcome",
+    "section": "🔍 Current Work",
+    "text": "🔍 Current Work\n\n📄 Download My Resume\n📝 Read My Blog"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Welcome",
+    "section": "📚 Research Projects",
+    "text": "📚 Research Projects\n\nHuman-Centered AI for the Public Sector\nDesigning an AI framework and prototype tailored for responsible deployment in government settings.\n- 📄 Thesis (in progress)\n- 💻 Prototype coming soon\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nA qualitative interview study of emotional responses to AI explanations.\n- 📄 Paper\n\n\nExplainability and Trust in AI: A Quantitative Approach\nExplores how explanation types influence user trust and fairness.\n- 📄 Paper\n\n\nOxford AI Monitoring System\nA lightweight web scraper that tracks foundation model adoption by companies.\n- 💻 Code"
+  },
+  {
+    "objectID": "index.html#open-source-tools",
+    "href": "index.html#open-source-tools",
+    "title": "Welcome",
+    "section": "🛠️ Open Source Tools",
+    "text": "🛠️ Open Source Tools\n\n⚙️ Applied Systems\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX elements using DOM analysis and LLM-based classification.\n- 📄 Paper\n- 💻 Code\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nA RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.\n- 📄 Paper\n- 💻 Code\n\n\n\n\n📦 R Tools for Interpretable Machine Learning\n\nTangledFeatures\nPerforms feature selection in highly correlated spaces for use with interpretable models.\n- 🌐 Package Site\n- 📄 Documentation\n\n\nStructuralDecompose\nDecomposes time series into components while remaining robust to level shifts.\n- 🌐 Package Site\n- 📄 Documentation"
   }
 ]

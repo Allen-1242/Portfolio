@@ -31,7 +31,7 @@ A government-focused AI framework and prototype designed to support responsible 
 A browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.
 
 - 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)
-- 💻 [Code](https://github.com/yourusername/gpt-bias-project)
+- 💻 [Code](https://github.com/Allen-1242/Dark_Patterns)
 
 
 ### RADAR: Retrieval-Augmented Data Analysis and Representation

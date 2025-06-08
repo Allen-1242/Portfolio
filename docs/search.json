@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Welcome !   ",
     "section": "",
     "text": "Hi, I’m Allen Sunny, a master’s student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I’m currently finishing my thesis under the guidance of Professor Ido Sivan-Sevilla.\nThis site showcases my research, projects, and links to my code repositories."
   },
@@ -30,7 +30,7 @@
   {
     "objectID": "index.html#about-this-site",
     "href": "index.html#about-this-site",
-    "title": "Welcome",
+    "title": "Welcome !   ",
     "section": "🌐 About This Site",
     "text": "🌐 About This Site\nBuilt with Quarto\nHosted on GitHub Pages\nAlways evolving."
   },
@@ -93,21 +93,21 @@
   {
     "objectID": "index.html#current-work",
     "href": "index.html#current-work",
-    "title": "Welcome",
+    "title": "Welcome !   ",
     "section": "🔍 Current Work",
     "text": "🔍 Current Work\n\n📄 Download My Resume\n📝 Read My Blog"
   },
   {
     "objectID": "index.html#research-projects",
     "href": "index.html#research-projects",
-    "title": "Welcome",
+    "title": "Welcome !   ",
     "section": "📚 Research Projects",
     "text": "📚 Research Projects\n\nHuman-Centered AI for the Public Sector\nDeveloping a framework and prototype to support the responsible deployment of AI in public institutions. This work draws on case studies of past failures, emphasizes human-centered design, and proposes a roadmap for post-deployment evaluation and accountability.\n\n📄 Thesis (in progress)\n\n💻 Prototype coming soon\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nA qualitative study based on semi-structured interviews that explores how users emotionally respond to AI-generated explanations. The findings highlight that trust is shaped not just by transparency, but also by reliability, clarity, and perceived control.\n- 📄 Paper\n\n\nExplainability and Trust in AI: A Quantitative Approach\nA survey based study that evaluates how different types of AI explanations influence user perceptions of fairness, trust, and decision legitimacy.\n- 📄 Paper\n\n\nOxford AI Monitoring System\nA lightweight, automated web scraper designed to track corporate adoption of foundation models. This tool supports transparency and governance efforts by mapping real-time deployment trends across public-facing websites.\n- 💻 Code"
   },
   {
     "objectID": "index.html#open-source-tools",
     "href": "index.html#open-source-tools",
-    "title": "Welcome",
+    "title": "Welcome !   ",
     "section": "🛠️ Open Source Tools",
     "text": "🛠️ Open Source Tools\n\n⚙️ Applied Systems\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX elements using DOM analysis and LLM-based classification.\n- 📄 Paper\n- 💻 Code\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nA RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.\n- 📄 Paper\n- 💻 Code\n\n\n\n\n📦 R Tools for Interpretable Machine Learning\n\nTangledFeatures\nPerforms feature selection in highly correlated spaces for use with interpretable models.\n- 🌐 Package Site\n- 📄 Documentation\n\n\nStructuralDecompose\nDecomposes time series into components while remaining robust to level shifts.\n- 🌐 Package Site\n- 📄 Documentation"
   }

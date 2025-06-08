@@ -1,9 +1,16 @@
 ---
-title: "Welcome"
+title: |
+  Welcome !  
+  <a href="https://github.com/Allen-1242" target="_blank"><img src="https://github.githubassets.com/favicons/favicon.svg" height="20" alt="GitHub"/></a> 
+  <a href="https://linkedin.com/in/allen-sunny1242" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" alt="LinkedIn"/></a> 
+  <a href="mailto:allens@umd.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" height="20" alt="Email"/></a> 
+author: ""
 format:
   html:
     page-layout: full
 ---
+
+
 
 Hi, I'm Allen Sunny, a master's student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability.  I'm currently finishing my thesis under the guidance of [Professor Ido Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/).
 

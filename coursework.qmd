@@ -5,7 +5,8 @@ format: html
 
 ## Fall 2023
 - **INFM600: Information Environments** — Instructor: W. Shah  
-- **INFM603: Information Technology and Organizational Context** — Instructor: V. Diker  
+- **INFM603: Information Technology and Organizational Context** — Instructor: V. Diker 
+- **GVPT 622: Quantitative Methods** - Instructor: David Cunningham
 - **CMSC848I / INST788B / PHIL688F: Trustworthy ML** — Instructor: Hal Daumé III  
 
 ## Spring 2024

@@ -20,7 +20,7 @@ This site showcases my research, projects, and links to my code repositories.
 
 ## 🔍 Current Work
 
-- 📄 [Download My ResumAllen_Sunny_Resume.pdf)
+- 📄 [Download My Resume](Allen_Sunny_Resume.pdf)
 - 📝 [Read My Blog](https://allensai.substack.com/)
 
 ---

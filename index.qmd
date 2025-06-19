@@ -27,7 +27,7 @@ repositories.
 
 ## 🔍 Current Work
 
--   📄 [Download My Resume](Allen_Sunny_Resume.pdf)
+-   📄 [Download My Resume](papers/Allen_Sunny_Resume.pdf)
 -   📝 [Read My Blog](https://allensai.substack.com/)
 
 ------------------------------------------------------------------------

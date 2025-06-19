@@ -8,83 +8,109 @@ author: ""
 format:
   html:
     page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+Hi, I'm Allen Sunny, a master's student at the University of Maryland,
+College Park. I build human-centered AI systems and conduct research at
+the intersection of machine learning, public services, and digital
+accountability. I'm currently finishing my thesis under the guidance of
+[Professor Ido
+Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/).
 
+This site showcases my research, projects, and links to my code
+repositories.
 
-Hi, I'm Allen Sunny, a master's student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability.  I'm currently finishing my thesis under the guidance of [Professor Ido Sivan-Sevilla](https://ischool.umd.edu/directory/ido-sivan-sevilla/).
-
-This site showcases my research, projects, and links to my code repositories.
-
----
+------------------------------------------------------------------------
 
 ## 🔍 Current Work
 
-- 📄 [Download My Resume](Allen_Sunny_Resume.pdf)
-- 📝 [Read My Blog](https://allensai.substack.com/)
+-   📄 [Download My Resume](Allen_Sunny_Resume.pdf)
+-   📝 [Read My Blog](https://allensai.substack.com/)
 
----
+------------------------------------------------------------------------
 
 ## 📚 Research Projects
 
-### Human-Centered AI for the Public Sector  
-Developing a framework and prototype to support the responsible deployment of AI in public institutions.
-This work draws on case studies of past failures, emphasizes human-centered design, and proposes a roadmap
-for post-deployment evaluation and accountability.
+### Human-Centered AI for the Public Sector
 
-- 📄 *Thesis (in progress)*  
-- 💻 *Prototype coming soon*
+Developing a framework and prototype to support the responsible
+deployment of AI in public institutions. This work draws on case studies
+of past failures, emphasizes human-centered design, and proposes a
+roadmap for post-deployment evaluation and accountability.
 
-### Trust in Transparency: How Explainable AI Shapes User Perceptions  
-A qualitative study based on semi-structured interviews that explores how users emotionally respond
-to AI-generated explanations. The findings highlight that trust is shaped not just by transparency, but also by reliability, clarity, and perceived control.  
- - 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
+-   📄 *Thesis (in progress)*\
+-   💻 *Prototype coming soon*
 
-### Explainability and Trust in AI: A Quantitative Approach  
-A survey based study that evaluates how different types of AI explanations influence user perceptions
-of fairness, trust, and decision legitimacy.  
+### Trust in Transparency: How Explainable AI Shapes User Perceptions
+
+A qualitative study based on semi-structured interviews that explores
+how users emotionally respond to AI-generated explanations. The findings
+highlight that trust is shaped not just by transparency, but also by
+reliability, clarity, and perceived control.\
+- 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
+
+### Explainability and Trust in AI: A Quantitative Approach
+
+A survey based study that evaluates how different types of AI
+explanations influence user perceptions of fairness, trust, and decision
+legitimacy.\
 - 📄 [Paper](papers/INST_808__User_AI_Research.pdf)
 
-### Oxford AI Monitoring System  
-A lightweight, automated web scraper designed to track corporate adoption of foundation models.
-This tool supports transparency and governance efforts by mapping real-time deployment trends across
-public-facing websites.  
+### Oxford AI Monitoring System
+
+A lightweight, automated web scraper designed to track corporate
+adoption of foundation models. This tool supports transparency and
+governance efforts by mapping real-time deployment trends across
+public-facing websites.\
 - 💻 [Code](https://github.com/Allen-1242/Oxford_AI_Monitoring)
 
----
+------------------------------------------------------------------------
 
 ## 🛠️ Open Source Tools
 
 ### ⚙️ Applied Systems
 
-#### **Dark Pattern Analysis**  
-A browser extension that detects deceptive UX elements using DOM analysis and LLM-based classification.  
-- 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)  
+#### **Dark Pattern Analysis**
+
+A browser extension that detects deceptive UX elements using DOM
+analysis and LLM-based classification.\
+- 📄 [Paper](papers/CMSC_839__Checkpoint4.pdf)\
 - 💻 [Code](https://github.com/Allen-1242/Dark_Patterns)
 
-#### **RADAR: Retrieval-Augmented Data Analysis and Representation**  
-A RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.  
-- 📄 [Paper](papers/INST760.pdf)  
+#### **RADAR: Retrieval-Augmented Data Analysis and Representation**
+
+A RAG-powered system that turns natural language into explainable data
+visualizations using LLaMA 3.1 8B.\
+- 📄 [Paper](papers/INST760.pdf)\
 - 💻 [Code](https://github.com/Allen-1242/Radar)
 
----
+------------------------------------------------------------------------
 
 ### 📦 R Tools for Interpretable Machine Learning
 
-#### **TangledFeatures**  
-Performs feature selection in highly correlated spaces for use with interpretable models.  
-- 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)  
-- 📄 [Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
+#### **TangledFeatures**
 
-#### **StructuralDecompose**  
-Decomposes time series into components while remaining robust to level shifts.  
-- 🌐 [Package Site](https://allen-1242.github.io/StructuralDecompose/)  
-- 📄 [Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
+Performs feature selection in highly correlated spaces for use with
+interpretable models.\
+- 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)\
+- 📄
+[Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
 
----
+#### **StructuralDecompose**
+
+Decomposes time series into components while remaining robust to level
+shifts.\
+- 🌐 [Package Site](https://allen-1242.github.io/StructuralDecompose/)\
+- 📄
+[Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
+
+------------------------------------------------------------------------
 
 ## 🌐 About This Site
 
-Built with [Quarto](https://quarto.org)  
-Hosted on [GitHub Pages](https://pages.github.com)  
+Built with [Quarto](https://quarto.org)\
+Hosted on [GitHub Pages](https://pages.github.com)\
 Always evolving.

@@ -50,7 +50,7 @@ A qualitative study based on semi-structured interviews that explores
 how users emotionally respond to AI-generated explanations. The findings
 highlight that trust is shaped not just by transparency, but also by
 reliability, clarity, and perceived control.\
-- 📄 [Paper](papers/INST_808__User_AI_Research_Final-2.pdf)
+- 📄 [Paper](https://arxiv.org/pdf/2510.04974)
 
 ### Explainability and Trust in AI: A Quantitative Approach
 
@@ -96,16 +96,17 @@ visualizations using LLaMA 3.1 8B.\
 Performs feature selection in highly correlated spaces for use with
 interpretable models.\
 - 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)\
-- 📄
-[Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)
+- 📄 [Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)\
+- 🧠 [Paper](papers/TangledFeatures.pdf)
 
 #### **StructuralDecompose**
 
 Decomposes time series into components while remaining robust to level
 shifts.\
 - 🌐 [Package Site](https://allen-1242.github.io/StructuralDecompose/)\
-- 📄
-[Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)
+- 📄 [Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)\
+- 🧠 [Paper](https://arxiv.org/pdf/2510.04974)
+
 
 ------------------------------------------------------------------------
 

@@ -50,7 +50,7 @@ A qualitative study based on semi-structured interviews that explores
 how users emotionally respond to AI-generated explanations. The findings
 highlight that trust is shaped not just by transparency, but also by
 reliability, clarity, and perceived control.\
-- 📄 [Paper](https://arxiv.org/pdf/2510.04974)
+- 📄 [Paper](https://arxiv.org/pdf/2510.04968)
 
 ### Explainability and Trust in AI: A Quantitative Approach
 

@@ -13,5 +13,11 @@
   },
   "coursework.qmd": {
     "coursework.html": "5cf208e2"
+  },
+  "papers/trust_link.qmd": {
+    "trust_link.html": "1bd13e83"
+  },
+  "papers/Explainability_Trust_Quantitative.qmd": {
+    "Explainability_Trust_Quantitative.html": "3f7ede5f"
   }
 }

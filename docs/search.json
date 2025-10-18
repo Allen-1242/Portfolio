@@ -110,5 +110,19 @@
     "title": "Welcome !   ",
     "section": "🛠️ Open Source Tools",
     "text": "🛠️ Open Source Tools\n\n⚙️ Applied Systems\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX elements using DOM analysis and LLM-based classification.\n- 📄 Paper\n- 💻 Code\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nA RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.\n- 📄 Paper\n- 💻 Code\n\n\n\n\n📦 R Tools for Interpretable Machine Learning\n\nTangledFeatures\nPerforms feature selection in highly correlated spaces for use with interpretable models.\n- 🌐 Package Site\n- 📄 Documentation\n- 🧠 Paper\n\n\nStructuralDecompose\nDecomposes time series into components while remaining robust to level shifts.\n- 🌐 Package Site\n- 📄 Documentation\n- 🧠 Paper"
+  },
+  {
+    "objectID": "papers/trust_link.html",
+    "href": "papers/trust_link.html",
+    "title": "Redirecting to Paper…",
+    "section": "",
+    "text": "Redirecting to paper…\nIf you are not redirected automatically, click here."
+  },
+  {
+    "objectID": "papers/Explainability_Trust_Quantitative.html",
+    "href": "papers/Explainability_Trust_Quantitative.html",
+    "title": "Redirecting to Paper…",
+    "section": "",
+    "text": "Redirecting to paper…\nIf you are not redirected automatically, click here."
   }
 ]

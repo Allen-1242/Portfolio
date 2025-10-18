@@ -56,8 +56,8 @@ reliability, clarity, and perceived control.\
 
 A survey based study that evaluates how different types of AI
 explanations influence user perceptions of fairness, trust, and decision
-legitimacy.
-- 📄 [Paper](papers/Preliminary Quantitative Study on Explainability.pdf)
+legitimacy. - 📄
+[Paper](papers/Preliminary%20Quantitative%20Study%20on%20Explainability.pdf)
 
 ### Oxford AI Monitoring System
 
@@ -96,7 +96,8 @@ visualizations using LLaMA 3.1 8B.\
 Performs feature selection in highly correlated spaces for use with
 interpretable models.\
 - 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)\
-- 📄 [Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)\
+- 📄
+[Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)\
 - 🧠 [Paper](papers/TangledFeatures.pdf)
 
 #### **StructuralDecompose**
@@ -104,9 +105,9 @@ interpretable models.\
 Decomposes time series into components while remaining robust to level
 shifts.\
 - 🌐 [Package Site](https://allen-1242.github.io/StructuralDecompose/)\
-- 📄 [Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)\
+- 📄
+[Documentation](https://cloud.r-project.org/web/packages/StructuralDecompose/StructuralDecompose.pdf)\
 - 🧠 [Paper](https://arxiv.org/pdf/2510.04974)
-
 
 ------------------------------------------------------------------------
 

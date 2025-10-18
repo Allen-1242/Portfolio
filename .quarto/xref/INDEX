@@ -1,26 +1,23 @@
 {
-  "projects.qmd": {
-    "projects.html": "d075a747"
-  },
-  "index.qmd": {
-    "index.html": "ab08cd09"
+  "Explainability_Trust_Quantitative.qmd": {
+    "index.html": "ac8bdd93"
   },
   "about.qmd": {
-    "about.html": "b828add0"
+    "about.html": "59c90a28"
   },
   "blog.qmd": {
-    "blog.html": "b8acd994"
+    "blog.html": "a9205095"
   },
   "coursework.qmd": {
-    "coursework.html": "5cf208e2"
+    "coursework.html": "0913f3ba"
   },
-  "papers/trust_link.qmd": {
-    "trust_link.html": "1bd13e83"
+  "index.qmd": {
+    "index.html": "b432ddf1"
   },
-  "papers/Explainability_Trust_Quantitative.qmd": {
-    "Explainability_Trust_Quantitative.html": "3f7ede5f"
+  "papers/explainability/index.qmd": {
+    "index.html": "b5b0583b"
   },
-  "Explainability_Trust_Quantitative.qmd": {
-    "index.html": "1429cbf3"
+  "projects.qmd": {
+    "projects.html": "89caee8b"
   }
 }

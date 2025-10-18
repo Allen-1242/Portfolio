@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "papers/**/*.qmd"
 
 website:
   title: "Allen Sunny"
@@ -10,12 +13,11 @@ website:
         href: index.qmd
       - text: "Coursework"
         href: coursework.qmd
+      # ↓ keep redirect pages out of navbar
+      # (do not list them here — they will still be rendered)
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

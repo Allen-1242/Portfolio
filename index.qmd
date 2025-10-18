@@ -56,8 +56,8 @@ reliability, clarity, and perceived control.\
 
 A survey based study that evaluates how different types of AI
 explanations influence user perceptions of fairness, trust, and decision
-legitimacy. - 📄
-[Paper](papers/Explainability_Trust_Quantitative/)
+legitimacy. \
+- 📄 [Paper](papers/Preliminary Quantitative Study on Explainability.pdf)
 
 ### Oxford AI Monitoring System
 

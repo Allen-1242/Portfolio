@@ -7,90 +7,6 @@
     "text": "Hi, I’m Allen Sunny, a master’s student at the University of Maryland, College Park. I build human-centered AI systems and conduct research at the intersection of machine learning, public services, and digital accountability. I’m currently finishing my thesis under the guidance of Professor Ido Sivan-Sevilla.\nThis site showcases my research, projects, and links to my code repositories."
   },
   {
-    "objectID": "index.html#read-my-current-work",
-    "href": "index.html#read-my-current-work",
-    "title": "Welcome",
-    "section": "Read my current work:",
-    "text": "Read my current work:\n\n📄 Download My Resume (PDF)\n📝 Read My Blog on Substack"
-  },
-  {
-    "objectID": "index.html#open-source",
-    "href": "index.html#open-source",
-    "title": "Welcome",
-    "section": "Open Source",
-    "text": "Open Source\n\nOxford AI Monitoring System\n\n\nMonitoring System\n\nAutomatic web scrapper that tracks the adoption of foundation models by companies\n\nTangledFeatures\n\n\nTangledFeatures\nTangledFeatures Documentation\n\nTangledFeatures is a feature selection algorithm that extracts features in highly correlated spaces. The extracted features are meant to be fed into simple explainable models such as linear or logistic regressions. This R package is useful in the field of explainable modelling as a way to understand variable behavior.\n\nStructuralDecompose\n\n\nStructuralDecompose\nStructuralDecompose Documentation\n\nThis R package explains the behavior of a time series by decomposing it into its trend, seasonality and residuals. It is built to perform very well in the presence of significant level shifts."
-  },
-  {
-    "objectID": "index.html#projects-and-papers",
-    "href": "index.html#projects-and-papers",
-    "title": "Welcome",
-    "section": "Projects and Papers",
-    "text": "Projects and Papers\n\nMasters Thesis: Human-Centered AI for the Public Sector\nA government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.\n\n📄 Thesis (in progress)\n💻 Prototype (coming soon)\n\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nUses interviews to explore how users emotionally respond to AI explanations. Reveals that trust depends not just on transparency, but also on reliability, clarity, and perceived agency.\n\n📄 Paper\n\n\n\nExplainability and Trust in AI: A Quantitative Approach\nExamines how different types of AI explanations impact user trust through experiments and surveys. Finds that well-designed, context-sensitive explanations significantly improve perceived fairness and trust.\n\n📄 Paper"
-  },
-  {
-    "objectID": "index.html#about-this-site",
-    "href": "index.html#about-this-site",
-    "title": "Welcome !   ",
-    "section": "🌐 About This Site",
-    "text": "🌐 About This Site\nBuilt with Quarto\nHosted on GitHub Pages\nAlways evolving."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework",
-    "section": "",
-    "text": "INFM600: Information Environments — Instructor: W. Shah\n\nINFM603: Information Technology and Organizational Context — Instructor: V. Diker\nGVPT 622: Quantitative Methods - Instructor: David Cunningham\nCMSC848I / INST788B / PHIL688F: Trustworthy ML — Instructor: Hal Daumé III"
-  },
-  {
-    "objectID": "coursework.html#fall-2023",
-    "href": "coursework.html#fall-2023",
-    "title": "Coursework",
-    "section": "",
-    "text": "INFM600: Information Environments — Instructor: W. Shah\n\nINFM603: Information Technology and Organizational Context — Instructor: V. Diker\nGVPT 622: Quantitative Methods - Instructor: David Cunningham\nCMSC848I / INST788B / PHIL688F: Trustworthy ML — Instructor: Hal Daumé III"
-  },
-  {
-    "objectID": "coursework.html#spring-2024",
-    "href": "coursework.html#spring-2024",
-    "title": "Coursework",
-    "section": "Spring 2024",
-    "text": "Spring 2024\n\nINFM605: Users and Use Context — Instructor: C. Doran\n\nINFM612: Management Concepts and Principles for Information Professionals — Instructor: W. Shah\n\nINST798 / INST808: Seminar in Research Methods and Data Analysis — Instructor: Paletz\n\nPHIL211: AI & Ethics — Instructor: Dwyer"
-  },
-  {
-    "objectID": "coursework.html#summer-2024",
-    "href": "coursework.html#summer-2024",
-    "title": "Coursework",
-    "section": "Summer 2024",
-    "text": "Summer 2024\n\nINST204: Designing Fair Systems (Summer II) — Instructor: Sevilla"
-  },
-  {
-    "objectID": "coursework.html#fall-2024",
-    "href": "coursework.html#fall-2024",
-    "title": "Coursework",
-    "section": "Fall 2024",
-    "text": "Fall 2024\n\nCMSC839C / INST878D: Advanced Topics in HCI; Governing Algorithms & Algorithmic Governance — Instructor: Kaptchuk\n\nINST760: Data Visualization — Instructor: N. Hoque\n\nINST798 / INST808: Seminar in Research Methods and Data Analysis — Instructor: J. Vitak"
-  },
-  {
-    "objectID": "coursework.html#spring-2025",
-    "href": "coursework.html#spring-2025",
-    "title": "Coursework",
-    "section": "Spring 2025",
-    "text": "Spring 2025\n\nINST762: Visual Analytics — Instructor: DEP"
-  },
-  {
-    "objectID": "index.html#human-centered-ai-for-the-public-sector",
-    "href": "index.html#human-centered-ai-for-the-public-sector",
-    "title": "Welcome",
-    "section": "Human-Centered AI for the Public Sector",
-    "text": "Human-Centered AI for the Public Sector\nA government-focused AI framework and prototype designed to support responsible deployment through case studies, human-centered design principles, and post-deployment evaluation.\n\n📄 Thesis (in progress)\n💻 Prototype (coming soon)\n\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX patterns on websites using DOM inspection and LLM-based classification.\n\n📄 Paper\n💻 Code\n\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nRADAR is a RAG-powered system that uses LLaMA 3.1 8B to generate explainable data visualizations from natural language input, enabling users to intuitively explore and understand data.\n\n📄 Paper\n💻 Code\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nUses interviews to explore how users emotionally respond to AI explanations. Reveals that trust depends not just on transparency, but also on reliability, clarity, and perceived agency.\n\n📄 Paper\n\n\n\nExplainability and Trust in AI: A Quantitative Approach\nExamines how different types of AI explanations impact user trust through experiments and surveys. Finds that well-designed, context-sensitive explanations significantly improve perceived fairness and trust.\n\n📄 Paper"
-  },
-  {
     "objectID": "index.html#current-work",
     "href": "index.html#current-work",
     "title": "Welcome !   ",
@@ -102,7 +18,7 @@
     "href": "index.html#research-projects",
     "title": "Welcome !   ",
     "section": "📚 Research Projects",
-    "text": "📚 Research Projects\n\nHuman-Centered AI for the Public Sector\nDeveloping a framework and prototype to support the responsible deployment of AI in public institutions. This work draws on case studies of past failures, emphasizes human-centered design, and proposes a roadmap for post-deployment evaluation and accountability.\n\n📄 Thesis (in progress)\n\n💻 Prototype coming soon\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nA qualitative study based on semi-structured interviews that explores how users emotionally respond to AI-generated explanations. The findings highlight that trust is shaped not just by transparency, but also by reliability, clarity, and perceived control.\n- 📄 Paper\n\n\nExplainability and Trust in AI: A Quantitative Approach\nA survey based study that evaluates how different types of AI explanations influence user perceptions of fairness, trust, and decision legitimacy. - 📄 Paper\n\n\nOxford AI Monitoring System\nA lightweight, automated web scraper designed to track corporate adoption of foundation models. This tool supports transparency and governance efforts by mapping real-time deployment trends across public-facing websites.\n- 💻 Code"
+    "text": "📚 Research Projects\n\nHuman-Centered AI for the Public Sector\nDeveloping a framework and prototype to support the responsible deployment of AI in public institutions. This work draws on case studies of past failures, emphasizes human-centered design, and proposes a roadmap for post-deployment evaluation and accountability.\n\n📄 Thesis (in progress)\n\n💻 Prototype coming soon\n\n\n\nTrust in Transparency: How Explainable AI Shapes User Perceptions\nA qualitative study based on semi-structured interviews that explores how users emotionally respond to AI-generated explanations. The findings highlight that trust is shaped not just by transparency, but also by reliability, clarity, and perceived control.\n- 📄 Paper\n\n\nExplainability and Trust in AI: A Quantitative Approach\nA survey based study that evaluates how different types of AI explanations influence user perceptions of fairness, trust, and decision legitimacy.\n- 📄 Paper\n\n\nOxford AI Monitoring System\nA lightweight, automated web scraper designed to track corporate adoption of foundation models. This tool supports transparency and governance efforts by mapping real-time deployment trends across public-facing websites.\n- 💻 Code"
   },
   {
     "objectID": "index.html#open-source-tools",
@@ -112,15 +28,15 @@
     "text": "🛠️ Open Source Tools\n\n⚙️ Applied Systems\n\nDark Pattern Analysis\nA browser extension that detects deceptive UX elements using DOM analysis and LLM-based classification.\n- 📄 Paper\n- 💻 Code\n\n\nRADAR: Retrieval-Augmented Data Analysis and Representation\nA RAG-powered system that turns natural language into explainable data visualizations using LLaMA 3.1 8B.\n- 📄 Paper\n- 💻 Code\n\n\n\n\n📦 R Tools for Interpretable Machine Learning\n\nTangledFeatures\nPerforms feature selection in highly correlated spaces for use with interpretable models.\n- 🌐 Package Site\n- 📄 Documentation\n- 🧠 Paper\n\n\nStructuralDecompose\nDecomposes time series into components while remaining robust to level shifts.\n- 🌐 Package Site\n- 📄 Documentation\n- 🧠 Paper"
   },
   {
-    "objectID": "papers/trust_link.html",
-    "href": "papers/trust_link.html",
-    "title": "Redirecting to Paper…",
-    "section": "",
-    "text": "Redirecting to paper…\nIf you are not redirected automatically, click here."
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome !   ",
+    "section": "🌐 About This Site",
+    "text": "🌐 About This Site\nBuilt with Quarto\nHosted on GitHub Pages\nAlways evolving."
   },
   {
-    "objectID": "papers/Explainability_Trust_Quantitative.html",
-    "href": "papers/Explainability_Trust_Quantitative.html",
+    "objectID": "papers/explainability/index.html",
+    "href": "papers/explainability/index.html",
     "title": "Redirecting to Paper…",
     "section": "",
     "text": "Redirecting to paper…\nIf you are not redirected automatically, click here."

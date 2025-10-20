@@ -57,7 +57,7 @@ reliability, clarity, and perceived control.\
 A survey based study that evaluates how different types of AI
 explanations influence user perceptions of fairness, trust, and decision
 legitimacy. \
-- 📄 [Paper](papers/Preliminary Quantitative Study on Explainability.pdf)
+- 📄 [Paper](https://arxiv.org/pdf/2510.15769)
 
 ### Oxford AI Monitoring System
 
@@ -98,7 +98,7 @@ interpretable models.\
 - 🌐 [Package Site](https://allen-1242.github.io/TangledFeatures/)\
 - 📄
 [Documentation](https://cloud.r-project.org/web/packages/TangledFeatures/TangledFeatures.pdf)\
-- 🧠 [Paper](papers/TangledFeatures.pdf)
+- 🧠 [Paper](https://arxiv.org/pdf/2510.15005v1)
 
 #### **StructuralDecompose**
 

@@ -293,6 +293,15 @@ defaults:
       author_profile: true
       share: true
 
+    # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:

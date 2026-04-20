@@ -1,10 +1,6 @@
 ---
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
+title: "Welcome"
+date: 2026-04-20
 ---
 
 Hi! My name is Allen Sunny, a researcher at the University of Maryland's Tech Policy Hub. My work focuses on the safe deployment of AI systems in public-facing contexts. I explore three interconnected research areas: AI policy, human-AI interaction, and AI interpretability. Currently, I'm exploring how formal methods and knowledge representation can be used to verify and audit AI system behavior in regulated domains.

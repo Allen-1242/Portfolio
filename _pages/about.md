@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "Hello! Welcome to my website"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is Allen Sunny, a researcher at the University of Maryland's Tech Policy Hub. My work focuses on the safe deployment of AI systems in public-facing contexts. I explore three interconnected research areas: AI policy, human-AI interaction, and AI interpretability. Currently, I'm exploring how formal methods and knowledge representation can be used to verify and audit AI system behavior in regulated domains.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-Hi! I'm Allen Sunny, a researcher at the University of Maryland's Tech Policy Hub. I work in understanding how technical AI governance works. I've started getting into the useage of formal methods in order to control 
-
-
-I'm developing Aries — a formal verification layer for AI agents that uses OWL ontologies and Z3 SMT solving to verify decisions before execution. My recent paper on neuro-symbolic auditing of public-sector AI was accepted at FAccT 2026.
+I hold a Bachelor's in Computer Science and Engineering from India, after which I worked for 4.5 years as a data scientist with Kantar for Walmart. I hold a Master's in Information Science at the University of Maryland, College Park.

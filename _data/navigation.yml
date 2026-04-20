@@ -12,13 +12,13 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /News/    
+    url: /news/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
         
   - title: "Blog Posts"
     url: /year-archive/

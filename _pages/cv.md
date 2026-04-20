@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Science, University of Maryland College Park, Dec. 2025
+* B.S. in Computer Science and Engineering, Visvesvaraya Technological University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2026 - Present: Research Assistant
+  * University of Maryland College Park - Tech Policy Lab
+  * Duties included: Building pipelines to flag privacy-sensitive data before LLM fine-tuning, developing evaluation frameworks to audit LLM outputs for compliance, implementing knowledge graph based guardrails
+  * Supervisor: Ido Sivan-Sevilla
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2023 - Dec 2025: Senior Data Analyst (Graduate Research Assistant)
+  * Robert H. Smith School of Business, University of Maryland
+  * Duties included: Developing Power BI dashboards for KPI monitoring, automating SQL/Python ETL for 50K+ records
+  * Supervisor: Career Services
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Aug 2018 - Jan 2023: Data Scientist / Associate Data Scientist
+  * Kantar Analytics - Walmart Account
+  * Duties included: Leading technical design of Walmart's global automated pricing system, developing custom time series and elasticity algorithms, creating anomaly detection systems, deploying end-to-end ML workflows
+  * Supervisor: Kantar Analytics
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * R, Python, SQL, SPARQL
+* AI/ML
+  * LLM Integration
+  * RAG Pipelines
+  * Prompt Engineering
+  * Agent Architectures
+  * Formal Verification (Z3/SMT)
+* Knowledge Representation
+  * Knowledge Graphs (OWL/RDF/SHACL)
+  * Neo4j
+* Frameworks
+  * LangChain, TensorFlow, HuggingFace, PyTorch, Spark, Hadoop
+
+Publications
+======
+<ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

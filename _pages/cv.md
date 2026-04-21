@@ -18,15 +18,15 @@ Work experience
 ======
 * Jan 2026 - Present: Research Assistant
   * University of Maryland College Park - Tech Policy Lab
-  * Duties included: Building pipelines to flag privacy-sensitive data before LLM fine-tuning, developing evaluation frameworks to audit LLM outputs for compliance, implementing knowledge graph based guardrails
+  * Building pipelines to flag privacy-sensitive data before LLM fine-tuning, developing evaluation frameworks to audit LLM outputs for compliance, implementing knowledge graph based guardrails
 
 * Sept 2023 - Dec 2025: Senior Data Analyst (Graduate Research Assistant)
   * Robert H. Smith School of Business, University of Maryland
-  * Duties included: Developing Power BI dashboards for KPI monitoring, automating SQL/Python ETL for 50K+ records
+  * Developing Power BI dashboards for KPI monitoring, automating SQL/Python ETL for 50K+ records
 
 * Aug 2018 - Jan 2023: Data Scientist / Associate Data Scientist
   * Kantar Analytics - Walmart Account
-  * Duties included: Leading technical design of Walmart's global automated pricing system, developing custom time series and elasticity algorithms, creating anomaly detection systems, deploying end-to-end ML workflows
+  * Leading technical design of Walmart's global automated pricing system, developing custom time series and elasticity algorithms, creating anomaly detection systems, deploying end-to-end ML workflows
 
 Skills
 ======

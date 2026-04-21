@@ -8,13 +8,10 @@ author_profile: true
 <p>You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=R3qN5MwAAAAJ&view_op=list_works&sortby=title">my Google Scholar profile</a>.</p>
 
 <p><strong>A Neuro-Symbolic Framework for Accountability in Public-Sector AI</strong><br/>
-AD Sunny · ACM FAccT 2026 · <a href="https://arxiv.org/abs/2512.12109">Paper</a></p>
+AD Sunny · ACM FAccT 2026 · <a href="https://arxiv.org/abs/2512.12109">arXiv</a></p>
 
 <p><strong>TangledFeatures: Robust Feature Selection in Highly Correlated Spaces</strong><br/>
-AD Sunny · MLSB Workshop @ NeurIPS 2025 · <a href="https://arxiv.org/pdf/2510.15005v1">Paper</a></p>
-
-<p><strong>Datafied Public Welfare: Legal Accountability in Algorithmic Governance</strong><br/>
-AD Sunny · Data Justice Conference: The Datafied State 2026, Cardiff University · <a href="">Extended Abstract</a></p>
+AD Sunny · MLSB Workshop @ NeurIPS 2025 · <a href="#">Paper</a></p>
 
 <p><strong>StructuralDecompose: A Modular Framework for Robust Time Series Decomposition in R</strong><br/>
 AD Sunny · arXiv 2025 · <a href="https://arxiv.org/abs/2510.04974">arXiv</a></p>
@@ -24,6 +21,9 @@ AD Sunny · arXiv 2025 · <a href="https://arxiv.org/abs/2510.15769">arXiv</a></
 
 <p><strong>Trust in Transparency: How Explainable AI Shapes User Perceptions</strong><br/>
 AD Sunny · arXiv 2025 · <a href="https://arxiv.org/abs/2510.04968">arXiv</a></p>
+
+<p><strong>Datafied Public Welfare: Legal Accountability in Algorithmic Governance</strong><br/>
+AD Sunny · Data Justice Conference: The Datafied State 2026, Cardiff University · <a href="#">Abstract</a></p>
 
 <p><strong>Disease Diagnosis System by Exploring Machine Learning Algorithms</strong><br/>
 AD Sunny, S Kulshreshtha, S Singh, BM Srinabh, H Sarojadevi · IJIET 2018 · <a href="#">Paper</a></p>

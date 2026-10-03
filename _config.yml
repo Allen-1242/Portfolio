@@ -13,9 +13,9 @@ title                    : "Allen Daniel Sunny"
 title_separator          : "-"
 name                     : &name "Allen Sunny"
 description              : &description "Allen's Academic Profile"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://allen-1242.github.io/Portfolio/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://allen-1242.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Allen-1242"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Technical AI Governance"
   location         : "Washington DC - Baltimore"
-  employer         : "University of Maryland College Park"
+  employer         : "Georgetown University"
   uri              : # URL
-  email            : "allens@umd.edu" 
+  email            : "as6262@georgetown.edu" 
 
   # Academic websites
   academia         : # URL

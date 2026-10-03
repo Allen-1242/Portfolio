@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* Jan 2026 - Present: Research Assistant
+* Aug 2026 - Present: Research Fellow
+  * Georgetown University
+  * Exploring how privacy laws can be operationalized in publicly deployed AI systems
+
+* Jan 2026 - Aug 2026: Research Assistant
   * University of Maryland College Park - Tech Policy Lab
   * Building pipelines to flag privacy-sensitive data before LLM fine-tuning, developing evaluation frameworks to audit LLM outputs for compliance, implementing knowledge graph based guardrails
 

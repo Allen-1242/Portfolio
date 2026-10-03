@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Allen Sunny. I am a research fellow at Georgetown University. under Professor Kobbi Nissim <a href="https://people.cs.georgetown.edu/~kobbi/"></a> and an affiliate at the University of Maryland's Tech Policy Hub under Professor <a href="https://idonibrasco.github.io/">Ido Sivan-Sevilla</a>
+Hi! My name is Allen Sunny. I am a research fellow at Georgetown University. under Professor  <a href="https://people.cs.georgetown.edu/~kobbi/">Kobbi Nissim</a> and an affiliate at the University of Maryland's Tech Policy Hub under Professor <a href="https://idonibrasco.github.io/">Ido Sivan-Sevilla</a>
 
 My work focuses on the safe deployment of AI systems in public-facing contexts. I explore three interconnected research areas: AI policy, human-AI interaction, and AI interpretability. Currently, I'm exploring how we can bridge CS and the law specifically how privacy laws can be operationalized in public sector AI. 
 
